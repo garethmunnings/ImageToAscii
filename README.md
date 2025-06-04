@@ -11,6 +11,7 @@
 ## ⚠️ Note
 
 Exception handling still needs improvement — use with care on unexpected input or file types.
+At the moment files must be smaller than 480 x 480 and .jpeg
 
 ## 🛠️ Tech
 
