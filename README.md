@@ -1,6 +1,6 @@
 # 🖼️ ImageToAscii
 
-**ImageToAscii** is a simple Windows Forms app written in **C#** that converts `.jpeg` images into ASCII art saved as a `.txt` file. It maps image brightness to characters to recreate the image using only text.
+**ImageToAscii** is a simple Windows Forms app I wrote in **C#** that converts `.jpeg` images into ASCII art saved as a `.txt` file. It maps image brightness to characters to recreate the image using only text.
 
 ## 🚀 Features
 
